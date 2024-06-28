@@ -106,7 +106,6 @@ def seleccionar_fila(event):
     colorear_linea(numero_linea)
 
 
-
 interfaz = tk.Tk()
 interfaz.title("Automatas")
 interfaz.geometry("1366x768")
